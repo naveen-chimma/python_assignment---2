@@ -1,1 +1,1 @@
-# python_assignment---2
+simple assignment on python
